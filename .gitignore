@@ -43,7 +43,10 @@ local.properties
 *.user
 *.sln.docstates
 
+dwsync.xml
+
 # Build results
+_notes/
 
 [Dd]ebug/
 [Rr]elease/
